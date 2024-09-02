@@ -1,0 +1,14 @@
+{
+    "name": "LeafletMap",
+    "description": "Map implemented with the Leaflet.js library.",
+    "type": "visualization",
+    "version": "1.0.0",
+    "author": "Jan Iverson Eligio",
+    "homepage": "",
+    "keywords": "qlik-sense, visualization",
+    "license": "MIT",
+    "repository": "",
+    "dependencies": {
+        "qlik-sense": ">=3.0.x"
+    }
+}
