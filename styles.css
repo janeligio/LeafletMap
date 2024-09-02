@@ -5,6 +5,11 @@
  * Reference: https://help.qlik.com/en-US/sense-developer/February2024/Subsystems/Extensions/Content/Sense_Extensions/Howtos/working-with-styling.htm
  */
 
+#leaflet-map {
+    width: 100%;
+    height: 100%;
+}
+
  .qv-object-pindrop-pindrop-icon {
     box-sizing: border-box;
     position: relative;

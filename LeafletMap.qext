@@ -1,13 +1,14 @@
 {
     "name": "LeafletMap",
     "description": "Map implemented with the Leaflet.js library.",
+    "icon": "extension",
     "type": "visualization",
     "version": "1.0.0",
     "author": "Jan Iverson Eligio",
     "homepage": "",
-    "keywords": "qlik-sense, visualization",
-    "license": "MIT",
-    "repository": "",
+    "keywords": "qlik-sense, visualization, map",
+    "license": "",
+    "repository": "https://github.com/janeligio/LeafletMap",
     "dependencies": {
         "qlik-sense": ">=3.0.x"
     }
